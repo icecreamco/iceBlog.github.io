@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ice狄のHome</title>
+    <title>Black狄</title>
     <description>程序员最后的倔强和坚持，is blog!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jun 2019 20:31:47 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2019 20:31:47 +0800</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2019 20:47:40 +0800</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2019 20:47:40 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>First Blog</title>
+        <title>开始</title>
         <description>&lt;h2 id=&quot;开始&quot;&gt;开始&lt;/h2&gt;
 
 &lt;p&gt;什么是开始？开始就是Hello Word !&lt;/p&gt;
@@ -28,6 +28,8 @@
         <pubDate>Sat, 29 Jun 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/posts/first-blog</link>
         <guid isPermaLink="true">http://localhost:4000/posts/first-blog</guid>
+        
+        <category>随笔</category>
         
         
       </item>
