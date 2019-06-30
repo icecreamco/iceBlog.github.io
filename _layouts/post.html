@@ -1,12 +1,6 @@
 ---
-layout: default
+layout: layout
 ---
 
-
-{% include post.html post=page %}
-
-{% if site.author.disqus %}
-    {% include externals/disqus.html %}
-{% endif %}
-
-{% include post/related.html %}
+{% assign __ = site.data.languages[site.language] %}
+{% include post.html %}
