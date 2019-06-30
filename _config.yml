@@ -7,7 +7,7 @@
 title: icecreamco
 subtitle:
 description: 'But for why ?'
-author: John Doe
+author: icecreamco
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -90,7 +90,7 @@ rss: false
 since: 2019
 
 # icon between year and author @Footer
-authoricon: icecreamco
+authoricon: 
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -236,7 +236,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /images/avatar.jpeg
+avatar: /assets/images/avatar.jpeg
 
 
 # Table Of Contents in the Sidebar
