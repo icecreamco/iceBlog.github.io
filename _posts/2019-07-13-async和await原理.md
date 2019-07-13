@@ -31,7 +31,7 @@ getCount().then((value) {
 
 单个异步任务很好理解，代码写起来也很易读，但是多个异步任务协同工作时，这种写法会特别冗余且不易理解，例如：
 
-~~~{dart
+~~~dart
 Future<int> _loadFromDisk(){}
 Future<String> _fetchNetworkData(){}
 
